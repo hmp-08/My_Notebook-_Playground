@@ -8,6 +8,6 @@ A dynamic playground for exploring and experimenting with AI and NLP concepts.
 
 2. **Burmese GloVe Embedding**
 
-3. **English Text-to-Image CLIP**
+3. **Burmese multiclass_classfication with LightGBM**
 
 
