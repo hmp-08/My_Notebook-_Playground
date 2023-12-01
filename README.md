@@ -1,4 +1,4 @@
-# My_Notebook-_Playground
+# My_Notebook_Playground
 
 A dynamic playground for exploring and experimenting with AI and NLP concepts.
 
